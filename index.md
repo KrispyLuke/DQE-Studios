@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to DQE Studios Website
 
-You can use the [editor on GitHub](https://github.com/KrispyLuke/www.dqestudios.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Inter-navigator, here is all the information you need...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a Colombian-British film (and series) studio still in pre-production of "The Agency".
 
 ### Markdown
 
