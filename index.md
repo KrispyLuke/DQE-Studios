@@ -4,34 +4,18 @@ Inter-navigator, here is all the information you need...
 
 We are a Colombian-British film (and series) studio still in pre-production of "The Agency".
 
-### Markdown
+### The Agency
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Agency is a comedy/action series created by DQE Studios and Dukestrom, the first season will feature 10 episodes and is scheduled for release in December 2022.
 
-```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# What we do?
+## Actually i dont know
+### Me neither
 
-- Bulleted
-- List
+-We record
+-We do VFX
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KrispyLuke/www.dqestudios.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**But our equipment its bad** and _basic_ and `Old`, but we try to do something
